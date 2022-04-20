@@ -1,1 +1,1 @@
-# Ciftlik Saha Yonetim Sistemi
+# CIFTLIK SAHA YONETIM SISTEMI
