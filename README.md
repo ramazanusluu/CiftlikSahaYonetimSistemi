@@ -14,6 +14,7 @@ kullanıcı eklediğinde o kullanıcıya otomatik bir ID atanarak kullanıcı ka
 sayesinde programa erişip işlem gerçekleştiren kullanıcıların kontrolü yönetici kontrolünde gerçekleştirilmiş
 olacaktır.
 
+![Ekran görüntüsü 2022-04-20 220919](https://user-images.githubusercontent.com/98388628/164306084-9cea84dd-49a4-4aa6-a9f1-946c4634d876.png)
 
 - Kullanıcı girişinde gerçekleşecek işlemler;
 Sistemde kullanıcı yetkisine sahip kullanıcı, kullanıcı adı ve şifresiyle kullanıcı girişi ekranından başarılı bir giriş
@@ -27,14 +28,25 @@ Kullanıcı girişi ile sistemde kontrol edilecek işlemler;
  Ekipman hareketlerini yönetmek
  Gelir-gider hareketlerini yönetmek
  
-Ana ekranın yapısı, ana ekran içerinde yönlendirme butonlarının yer aldığı bir menü sayfası olarak kullanıcının
-karşısına çıkmaktadır. Menü içerisinde yer alan butonlar;
- ÇİFTLİK
- ZİYARETÇİ
- HAYVANLAR
- PERSONEL
- DEPOLAR
- EKİPMANLAR
- GELİR-GİDER
-Kullanıcı “ÇİFTLİK” butonuna tıkladığında; çiftlik bilgilerinin yer aldığı sayfaya yönlendirilecektir. Burada çiftlik
-bilgilerine ait; adres telefon kapasite gibi bilgileri kaydedip, görüntüleyip ve bu bilgileri güncelleyebilecektir.
+ 
+![anaekran](https://user-images.githubusercontent.com/98388628/164306118-c6c2854e-8b39-452d-b9ac-bca89abae6aa.png)
+
+ 
+- Veteriner Hekim girişinde gerçekleşecek işlemler;
+Sistemde veteriner hekim yetkisine sahip kullanıcı, kullanıcı adı ve şifresiyle veteriner girişi ekranından başarılı bir
+giriş işlemi gerçekleştirdiğinde gerçekleştirmek istediği işlemi seçeceği veteriner hekim sayfasına yönlendirilecek.
+Veteriner hekim girişi ile sistemde gerçekleştirilecek işlemler;
+ Hayvanlar üzerinde koydukları teşhis bilgilerini ve uyguladıkları tedavi bilgilerini yönetmek
+ Hayvanların aşı takvimini yönetmek
+ Koruyucu hekim uygulamalarını yönetmek
+ Çiftliğin ecza deposunda bulunan ilaç bilgilerini yönetmek
+Veteriner hekim ekranında 4 farklı sekme bulunacak bunlar;
+ TEDAVİ, bu ekranda hasta olan hayvanlara koyulan teşhis, tedavi ve kullanılan ilaç bilgilerini
+yönetebilecek
+ AŞI, bu kısımda hayvanlara yapılan aşı bilgilerini yönetebilecek.
+ KORUYUCU HEKİM, burada çiftlikte uygulanan koruyucu hekim uygulamalarının kontrolünü
+gerçekleştirecek.
+ ECZA DEPOSU, bu kısım da ise çiftlikte bulunan ilaçların kontrolünü gerçekleştirecek.
+ 
+ ![veteriner](https://user-images.githubusercontent.com/98388628/164305829-6c3d5d34-c2a2-4cc7-95a8-29486e83a7bc.png)
+
