@@ -1,11 +1,11 @@
 # MOLER
 
-## Projenin tasarım aşamasında sisteme yönetici, kullanıcı ve veteriner hekim olmak üzere 3 farklı türde giriş
-sağlanacak.
+## Projenin tasarım aşamasında sisteme yönetici, kullanıcı ve veteriner hekim olmak üzere 3 farklı türde giriş sağlanacak.
+
 
 ![Ekran görüntüsü 2022-04-20 220840](https://user-images.githubusercontent.com/98388628/164305517-892d9062-3cbb-430c-b353-c778c287d08f.png)
 
-###Yönetici girişinde gerçekleşecek işlemler;
+### Yönetici girişinde gerçekleşecek işlemler;
 Verilerin güvenliği için daha önceden veri tabanı üzerinde önceden verilmiş olan yönetici yetkisine sahip kullanıcı,
 yönetici giriş ekranı ile veri tabanı üzerinde kayıtlı kullanıcı adı ve şifresiyle sisteme başarılı bir giriş işlemi
 yaptığında yönetici ekranına yönlendirilecektir. Yönetici bu kısımda sistemi kullanan kullanıcıları görüntüleyip, yeni
